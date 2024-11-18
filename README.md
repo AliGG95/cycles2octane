@@ -12,26 +12,47 @@ ShaderNodeHueSaturation (converted to OctaneColorCorrection)
 ShaderNodeBrightContrast (converted to OctaneColorCorrection)
 
 ShaderNodeRGB (converted to OctaneRGBColor)
+
 ShaderNodeBsdfPrincipled (converted to OctaneUniversalMaterial)
+
 ShaderNodeMapping (converted to Octane3DTransformation)
+
 ShaderNodeOutputMaterial (converted to ShaderNodeOutputMaterial)
+
 ShaderNodeTexImage (converted to OctaneRGBImage)
+
 ShaderNodeValToRGB (converted to OctaneGradientMap)
+
 ShaderNodeMix (converted to OctaneCyclesMixColorNodeWrapper)
+
 ShaderNodeBsdfTranslucent (converted to OctaneUniversalMaterial with OctaneRGB Color wich mimic translucent in Octane)
+
 ShaderNodeInvert (converted to OctaneInvertTexture)
+
 ShaderNodeBsdfTransparent (converted to OctaneNullMaterial)
+
 ShaderNodeAddShader (converted to OctaneMixMaterial)
+
 ShaderNodeMixShader (converted to OctaneMixMaterial)
+
 ShaderNodeMapRange (converted to OctaneOperatorRange)
+
 ShaderNodeMath (converted to OctaneCyclesNodeMathNodeWrapper)
+
 ShaderNodeVectorMath (converted to OctaneCyclesNodeVectorMathNodeWrapper)
+
 ShaderNodeTexNoise (converted to OctaneCinema4DNoise)
+
 ShaderNodeGamma (converted to OctaneColorCorrection)
+
 ShaderNodeBump (converted to null node group which mimic bump node)
+
 ShaderNodeNormalMap (converted to null node group which mimic normal map node)
+
 ShaderNodeDisplacement (converted to OctaneTextureDisplacement)
+
 ShaderNodeEmission (converted to OctaneTextureEmission)
+
 ShaderNodeBlackbody (converted to OctaneBlackBodyEmission)
 
 
