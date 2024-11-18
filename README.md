@@ -8,7 +8,9 @@ List of improvements made by me:
 Here's the list of nodes converted from Cycles to Octane:
 
 ShaderNodeHueSaturation (converted to OctaneColorCorrection)
+
 ShaderNodeBrightContrast (converted to OctaneColorCorrection)
+
 ShaderNodeRGB (converted to OctaneRGBColor)
 ShaderNodeBsdfPrincipled (converted to OctaneUniversalMaterial)
 ShaderNodeMapping (converted to Octane3DTransformation)
