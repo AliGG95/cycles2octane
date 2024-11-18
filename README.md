@@ -31,4 +31,6 @@ ShaderNodeNormalMap (converted to null node group which mimic normal map node)
 ShaderNodeDisplacement (converted to OctaneTextureDisplacement)
 ShaderNodeEmission (converted to OctaneTextureEmission)
 ShaderNodeBlackbody (converted to OctaneBlackBodyEmission)
+
+
 All nodes are compatible with Blender 4.2. Earlier versions have several incompatibilities when it comes to sockets(such as Principled BSDF or Material Output)for this reason this converter will not work on older versions of Blender.With my corrections, any convertible node values should be correctly transferred during Octane conversion. I removed the reverse conversion, which after my corrections began to whirr and generate a mass of errors
